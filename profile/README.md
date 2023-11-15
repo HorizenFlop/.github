@@ -1,4 +1,2 @@
-# Welcome, we're HorizenFlop
 
-<!--
 
